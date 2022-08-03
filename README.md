@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**johnroyer/johnroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jyhsu2000/jyhsu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Zeroplex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnroyer&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/johnroyer)  
+[![Zeroplex's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnroyer&layout=compact)](https://github.com/johnroyer)
