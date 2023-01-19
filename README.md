@@ -18,4 +18,5 @@ If you can not se the badge below, means I am the top 0% that make [github-readm
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Zeroplex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnroyer&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/johnroyer)  
-[![Zeroplex's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnroyer&layout=compact)](https://github.com/johnroyer)
+
+<!--[![Zeroplex's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnroyer&layout=compact)](https://github.com/johnroyer)-->
