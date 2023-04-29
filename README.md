@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-If you can not se the badge below, means I am the top 0% that make [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) crashed.
-
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Zeroplex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnroyer&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/johnroyer)  
