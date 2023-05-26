@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - website back-end programer
-- most familar with PHP, playing with other language also 
+- most familar with PHP, using with other language also 
 - vary lazy, and try to automize evenrthing in life
 - also interested in photographing, instrument playing
 - you can find my blog here: [blog.zeroplex.tw](https://blog.zeroplex.tw)
