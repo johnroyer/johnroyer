@@ -13,6 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- website back-end programer
+- most familar with PHP, playing with other language also 
+- vary lazy, and try to automize evenrthing in life
+- also interested in photographing, instrument playing
+- you can find my blog here: [blog.zeroplex.tw](https://blog.zeroplex.tw)
+
+-----
+
+- 後端工程師
+- 最熟的語言是 PHP，其他的也都玩
+- 懶骨頭一個，什麼事情都想自動化
+- 對攝影、玩樂器也有興趣
+- Blog 在 [blog.zeroplex.tw](https://blog.zeroplex.tw)
+
+-----
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Zeroplex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnroyer&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/johnroyer)  
